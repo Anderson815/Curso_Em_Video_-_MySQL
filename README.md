@@ -4,7 +4,7 @@ Exercícios ao longo do curso de **MySQL** da plataforma **Curso Em Vídeo**.
 
 Nesse curso utiliza a ferramenta MySQL Workbench e ensina:
 
-* Cria Banco de Dados e algumas configurações (CREATE DATABASE)
+* Criar Banco de Dados e algumas configurações (CREATE DATABASE)
 * Criar as tabelas e suas estruturas (CREATE TABLE)
 * Inserir Registros (INSER INTO tabela (c1, c2 , c3 ...) VALUE (v1, v2, v3 ...))
 * Modificar estruturas de tabela (ALTER TABLE)
