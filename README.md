@@ -1,4 +1,4 @@
-# Curso Em VÍdeo - MySQL
+# Curso Em VÍdeo: MySQL
 
 Exercícios ao longo do curso de **MySQL** da plataforma **Curso Em Vídeo**.
 
