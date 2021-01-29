@@ -1,6 +1,6 @@
 # Curso Em VÍdeo: MySQL
 
-Exercícios ao longo do curso de **MySQL** da plataforma **Curso Em Vídeo**.
+Exercícios ao longo do curso de **MySQL** da plataforma <a href="https://www.cursoemvideo.com/cursos/">**Curso Em Vídeo**</a>.
 
 Nesse curso utiliza a ferramenta MySQL Workbench e ensina:
 
